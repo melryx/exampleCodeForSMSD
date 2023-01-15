@@ -1,1 +1,3 @@
-println("malicious code")
+fun main() {
+    println("malicious code")
+}
