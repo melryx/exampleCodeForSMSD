@@ -1,3 +1,3 @@
 fun main() {
-    println("malicious code")
+    return "malicious code has been executed"
 }
